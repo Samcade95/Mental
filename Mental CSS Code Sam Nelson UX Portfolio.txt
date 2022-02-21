@@ -1,0 +1,1728 @@
+Mental CSS Code:
+
+/* Mental App-Intro Screen */
+
+
+position: relative;
+width: 360px;
+height: 800px;
+
+background: #FFFFFF;
+
+/* Mental */
+
+
+position: absolute;
+width: 144px;
+height: 43px;
+left: 117px;
+top: 37px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 43px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 127px;
+height: 135px;
+left: 117px;
+top: 90px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 167px;
+height: 74px;
+left: 94px;
+top: 253px;
+
+background: rgba(60, 218, 180, 0.75);
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+
+/* Get Started */
+
+
+position: absolute;
+width: 151px;
+height: 33px;
+left: 112px;
+top: 274px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 698.5px;
+height: 703.5px;
+left: -444px;
+top: 96px;
+
+background: #3CDAB4;
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 356.54px;
+height: 774.59px;
+left: 85.68px;
+top: 36.56px;
+
+background: #3CDAB4;
+transform: rotate(0.09deg);
+
+/* Mental App-Profile Setup Screen */
+
+
+position: relative;
+width: 360px;
+height: 800px;
+
+background: #FFFFFF;
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 200.06px;
+height: 244.84px;
+left: 200.06px;
+top: 240.68px;
+
+background: #3CDAB4;
+transform: rotate(179.91deg);
+
+/* Mental */
+
+
+position: absolute;
+width: 131px;
+height: 43px;
+left: 9px;
+top: -4px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* image 2 */
+
+
+position: absolute;
+width: 83px;
+height: 72px;
+left: 0px;
+top: 39px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 124px;
+height: 126px;
+left: 236px;
+top: 0px;
+
+background: rgba(60, 218, 180, 0.75);
+
+/* Profile Setup */
+
+
+position: absolute;
+width: 86px;
+height: 41px;
+left: 271px;
+top: 48px;
+
+font-family: Rockwell;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 90px;
+height: 80px;
+left: 146px;
+top: 149px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 310px;
+height: 85px;
+left: 23px;
+top: 254px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* First Name: John */
+
+
+position: absolute;
+width: 209px;
+height: 32px;
+left: 113px;
+top: 274px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 310px;
+height: 85px;
+left: 23px;
+top: 350px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Last Name: Doe */
+
+
+position: absolute;
+width: 209px;
+height: 32px;
+left: 113px;
+top: 369px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 310px;
+height: 85px;
+left: 23px;
+top: 448px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Age: 32 */
+
+
+position: absolute;
+width: 209px;
+height: 32px;
+left: 113px;
+top: 469px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 310px;
+height: 85px;
+left: 23px;
+top: 543px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Gender: Male */
+
+
+position: absolute;
+width: 209px;
+height: 32px;
+left: 113px;
+top: 560px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 310px;
+height: 161px;
+left: 23px;
+top: 639px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* Symptoms: Anxious, Scared, Annoyed and Irritated */
+
+
+position: absolute;
+width: 209px;
+height: 32px;
+left: 74px;
+top: 687px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Mental App-Therapist Locator Screen */
+
+
+position: relative;
+width: 360px;
+height: 800px;
+
+background: #FFFFFF;
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 200.06px;
+height: 244.84px;
+left: 200.06px;
+top: 244.84px;
+
+background: #3CDAB4;
+transform: rotate(179.91deg);
+
+/* Mental */
+
+
+position: absolute;
+width: 131px;
+height: 43px;
+left: 8px;
+top: 0px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* image 3 */
+
+
+position: absolute;
+width: 83px;
+height: 72px;
+left: 0px;
+top: 43px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 124px;
+height: 126px;
+left: 236px;
+top: 0px;
+
+background: rgba(60, 218, 180, 0.75);
+
+/* Here’s some great therapists that can help with your symptoms */
+
+
+position: absolute;
+width: 77px;
+height: 90px;
+left: 264px;
+top: 13px;
+
+font-family: Rockwell;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 121px;
+height: 119px;
+left: 13px;
+top: 247px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* Line 5 */
+
+
+position: absolute;
+width: 27px;
+height: 0px;
+left: 129px;
+top: 285px;
+
+border: 1px solid #000000;
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 184px;
+height: 70px;
+left: 156px;
+top: 250px;
+
+background: rgba(60, 218, 180, 0.75);
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 12px;
+
+/* Lisa Jackson: Anxiety Specialist */
+
+
+position: absolute;
+width: 152px;
+height: 36px;
+left: 169px;
+top: 264px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Ellipse 4 */
+
+
+position: absolute;
+width: 121px;
+height: 119px;
+left: 12px;
+top: 407px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Line 6 */
+
+
+position: absolute;
+width: 26px;
+height: 0px;
+left: 132px;
+top: 460px;
+
+border: 1px solid #000000;
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 184px;
+height: 70px;
+left: 157px;
+top: 425px;
+
+background: rgba(60, 218, 180, 0.75);
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 12px;
+
+/* Sarah Smith: Mood Behavior Specialist */
+
+
+position: absolute;
+width: 147px;
+height: 38px;
+left: 174px;
+top: 434px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Ellipse 5 */
+
+
+position: absolute;
+width: 121px;
+height: 119px;
+left: 12px;
+top: 569px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Line 7 */
+
+
+position: absolute;
+width: 25px;
+height: 0px;
+left: 133px;
+top: 629px;
+
+border: 1px solid #000000;
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 184px;
+height: 70px;
+left: 157px;
+top: 600px;
+
+background: rgba(60, 218, 180, 0.75);
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 12px;
+
+/* Jermaine Jones: Fear Specialist */
+
+
+position: absolute;
+width: 133px;
+height: 39px;
+left: 180px;
+top: 615px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Mental App-Therapist Chat Session */
+
+
+position: relative;
+width: 360px;
+height: 800px;
+
+background: #FFFFFF;
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 200px;
+height: 244px;
+left: 200px;
+top: 244px;
+
+background: #3CDAB4;
+transform: rotate(-179.98deg);
+
+/* Mental */
+
+
+position: absolute;
+width: 131px;
+height: 43px;
+left: 10px;
+top: 0px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* image 4 */
+
+
+position: absolute;
+width: 83px;
+height: 72px;
+left: 0px;
+top: 43px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 124px;
+height: 126px;
+left: 236px;
+top: 0px;
+
+background: rgba(60, 218, 180, 0.75);
+
+/* Chat Session with Lisa Jackson: Anxiety Specialist */
+
+
+position: absolute;
+width: 83px;
+height: 40px;
+left: 263px;
+top: 39px;
+
+font-family: Rockwell;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 90px;
+height: 80px;
+left: 20px;
+top: 226px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Line 1 */
+
+
+position: absolute;
+width: 28px;
+height: 0px;
+left: 110px;
+top: 263px;
+
+border: 1px solid #000000;
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 195px;
+height: 119px;
+left: 138px;
+top: 217px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Hi John, my name is Lisa. Why don’t you tell me about what brings you into this chat session today? */
+
+
+position: absolute;
+width: 157px;
+height: 86px;
+left: 162px;
+top: 233px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Rectangle 20 */
+
+
+position: absolute;
+width: 195px;
+height: 119px;
+left: 20px;
+top: 360px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Hi Lisa, what brings me in today to this chat session is that I’ve been feeling really anxious and irritable lately. */
+
+
+position: absolute;
+width: 147px;
+height: 82px;
+left: 48px;
+top: 379px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Line 2 */
+
+
+position: absolute;
+width: 28px;
+height: 0px;
+left: 215px;
+top: 407px;
+
+border: 1px solid #000000;
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 90px;
+height: 80px;
+left: 243px;
+top: 367px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Ellipse 8 */
+
+
+position: absolute;
+width: 90px;
+height: 80px;
+left: 14px;
+top: 530px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Line 3 */
+
+
+position: absolute;
+width: 28px;
+height: 0px;
+left: 104px;
+top: 573px;
+
+border: 1px solid #000000;
+
+/* Rectangle 21 */
+
+
+position: absolute;
+width: 195px;
+height: 119px;
+left: 131px;
+top: 507px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* I see, John lets schedule an office appointment so we can discuss your anxiety and irritability in person and get a gameplan together. */
+
+
+position: absolute;
+width: 160px;
+height: 80px;
+left: 146px;
+top: 522px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Rectangle 22 */
+
+
+position: absolute;
+width: 195px;
+height: 119px;
+left: 20px;
+top: 650px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Awesome, I’ll make sure and do that and see you in person at your office. */
+
+
+position: absolute;
+width: 162px;
+height: 82px;
+left: 40px;
+top: 663px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Line 4 */
+
+
+position: absolute;
+width: 28px;
+height: 0px;
+left: 215px;
+top: 714px;
+
+border: 1px solid #000000;
+
+
+/* Ellipse 9 */
+
+
+position: absolute;
+width: 90px;
+height: 80px;
+left: 243px;
+top: 674px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Mental App-Therapy Scheduler Screen */
+
+
+position: relative;
+width: 360px;
+height: 800px;
+
+background: #FFFFFF;
+
+/* Rectangle 23 */
+
+
+position: absolute;
+width: 200px;
+height: 244px;
+left: 200px;
+top: 244px;
+
+background: #3CDAB4;
+transform: rotate(-179.97deg);
+
+/* Mental */
+
+
+position: absolute;
+width: 131px;
+height: 43px;
+left: 13px;
+top: 0px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* image 5 */
+
+
+position: absolute;
+width: 83px;
+height: 72px;
+left: 1px;
+top: 40px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Ellipse 10 */
+
+
+position: absolute;
+width: 124px;
+height: 126px;
+left: 232px;
+top: 0px;
+
+background: rgba(60, 218, 180, 0.75);
+
+/* Here you can schedule an office visit with Lisa */
+
+
+position: absolute;
+width: 64px;
+height: 15px;
+left: 265px;
+top: 52px;
+
+font-family: Rockwell;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Ellipse 10 */
+
+
+position: absolute;
+width: 90px;
+height: 80px;
+left: 142px;
+top: 197px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Rectangle 24 */
+
+
+position: absolute;
+width: 359px;
+height: 509px;
+left: 1px;
+top: 291px;
+
+background: #3CDAB4;
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 310px;
+height: 85px;
+left: 19px;
+top: 302px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Office Location: 188th Sheridan Blvd Unit G, Sacramento, CA 94203 */
+
+
+position: absolute;
+width: 288px;
+height: 33px;
+left: 36px;
+top: 327px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 310px;
+height: 85px;
+left: 19px;
+top: 401px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Days Available: Mon. 1/11, Wed. 1/13, Fri. 1/15, Sat. 1/16 */
+
+
+position: absolute;
+width: 261px;
+height: 50px;
+left: 36px;
+top: 415px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 310px;
+height: 85px;
+left: 19px;
+top: 503px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Times Available: 10-11am, 2-3pm, 4-5pm */
+
+
+position: absolute;
+width: 267px;
+height: 43px;
+left: 41px;
+top: 521px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Rectangle 27 */
+
+
+position: absolute;
+width: 310px;
+height: 195px;
+left: 19px;
+top: 605px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* Appointment Info: Please bring a valid state issued I.D. along with your insurance information */
+
+
+position: absolute;
+width: 141px;
+height: 43px;
+left: 38px;
+top: 681px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Mental App-Appointment Confirmation/Logout Screen */
+
+
+position: relative;
+width: 360px;
+height: 800px;
+
+background: #FFFFFF;
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 200px;
+height: 244px;
+left: 200px;
+top: 244.12px;
+
+background: #3CDAB4;
+transform: rotate(-179.97deg);
+
+/* Mental */
+
+
+position: absolute;
+width: 131px;
+height: 43px;
+left: 9px;
+top: 0px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* image 6 */
+
+
+position: absolute;
+width: 83px;
+height: 72px;
+left: 0px;
+top: 36px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Ellipse 11 */
+
+
+position: absolute;
+width: 124px;
+height: 126px;
+left: 236px;
+top: 0px;
+
+background: rgba(60, 218, 180, 0.75);
+
+/* Here you can Logout after you’ve confirmed your appointment */
+
+
+position: absolute;
+width: 78px;
+height: 64px;
+left: 263px;
+top: 27px;
+
+font-family: Rockwell;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 300px;
+height: 200px;
+left: 29px;
+top: 280px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+/* You’re all set for Mon. 1/11 from 10-11am with Lisa Jackson at 188th Sheridan Blvd Unit G, Sacramento, CA 94203 Thanks for using Mental :) */
+
+
+position: absolute;
+width: 218px;
+height: 104px;
+left: 70px;
+top: 325px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Rectangle 30 */
+
+
+position: absolute;
+width: 309px;
+height: 90px;
+left: 29px;
+top: 533px;
+
+background: rgba(60, 218, 180, 0.75);
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+/* Rate your Experience using Mental */
+
+
+position: absolute;
+width: 259px;
+height: 63px;
+left: 69px;
+top: 545px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Rectangle 31 */
+
+
+position: absolute;
+width: 309px;
+height: 90px;
+left: 29px;
+top: 654px;
+
+background: rgba(218, 60, 60, 0.75);
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+/* Logout */
+
+
+position: absolute;
+width: 252px;
+height: 33px;
+left: 140px;
+top: 682px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Mental App-Rate Your Experience Screen */
+
+
+position: relative;
+width: 360px;
+height: 800px;
+
+background: #FFFFFF;
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 200px;
+height: 244px;
+left: 200px;
+top: 244.12px;
+
+background: #3CDAB4;
+transform: rotate(-179.97deg);
+
+/* Mental */
+
+
+position: absolute;
+width: 131px;
+height: 43px;
+left: 9px;
+top: 0px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* image 6 */
+
+
+position: absolute;
+width: 83px;
+height: 72px;
+left: 0px;
+top: 36px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Ellipse 11 */
+
+
+position: absolute;
+width: 124px;
+height: 126px;
+left: 236px;
+top: 0px;
+
+background: rgba(60, 218, 180, 0.75);
+
+/* Here you can rate your Experience today with using Mental */
+
+
+position: absolute;
+width: 78px;
+height: 64px;
+left: 263px;
+top: 27px;
+
+font-family: Rockwell;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 300px;
+height: 93px;
+left: 42px;
+top: 204px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+/* Tell us about your experience today with Mental? */
+
+
+position: absolute;
+width: 267px;
+height: 70px;
+left: 71px;
+top: 227px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Line 8 */
+
+
+position: absolute;
+width: 28px;
+height: 0px;
+left: 192px;
+top: 297px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+
+/* Rectangle 32 */
+
+
+position: absolute;
+width: 276px;
+height: 190px;
+left: 54px;
+top: 325px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+/* Mental is the best Therapy app I’ve used in a long time, I would definitely recommend this app to anyone who needs a good Therapy app. -John Doe */
+
+
+position: absolute;
+width: 226px;
+height: 149px;
+left: 83px;
+top: 344px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Rectangle 30 */
+
+
+position: absolute;
+width: 309px;
+height: 90px;
+left: 32px;
+top: 542px;
+
+background: rgba(60, 218, 180, 0.75);
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+
+/* Star 1 */
+
+
+position: absolute;
+width: 46px;
+height: 49px;
+left: 39px;
+top: 553px;
+
+background: #FAFF14;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Star 2 */
+
+
+position: absolute;
+width: 46px;
+height: 49px;
+left: 100px;
+top: 553px;
+
+background: #FAFF14;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Star 3 */
+
+
+position: absolute;
+width: 46px;
+height: 49px;
+left: 161px;
+top: 553px;
+
+background: #FAFF14;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Star 4 */
+
+
+position: absolute;
+width: 46px;
+height: 49px;
+left: 222px;
+top: 553px;
+
+background: #FAFF14;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Star 5 */
+
+
+position: absolute;
+width: 46px;
+height: 49px;
+left: 284px;
+top: 553px;
+
+background: #FAFF14;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Rectangle 31 */
+
+
+position: absolute;
+width: 309px;
+height: 90px;
+left: 29px;
+top: 658px;
+
+background: rgba(60, 218, 180, 0.75);
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+
+/* Share on Social Media */
+
+
+position: absolute;
+width: 277px;
+height: 42px;
+left: 57px;
+top: 661px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* image 7 */
+
+
+position: absolute;
+width: 34.04px;
+height: 40px;
+left: 58px;
+top: 703px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* image 8 */
+
+
+position: absolute;
+width: 42.62px;
+height: 40px;
+left: 118px;
+top: 701px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* image 9 */
+
+
+position: absolute;
+width: 47.98px;
+height: 47px;
+left: 187px;
+top: 699px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* image 10 */
+
+
+position: absolute;
+width: 36px;
+height: 42px;
+left: 271px;
+top: 701px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+
+
+
+
